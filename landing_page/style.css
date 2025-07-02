@@ -7,3 +7,12 @@ background: radial-gradient(circle, rgba(242, 233, 233, 1) 0%, rgba(219, 219, 21
 h2{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#sign_size {
+  size: 20%;
+  text-align: center;
+}
