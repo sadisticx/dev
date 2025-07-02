@@ -1,0 +1,9 @@
+ body{
+padding: 10px;
+text-align: left;
+background: #f2e9e9;
+background: radial-gradient(circle, rgba(242, 233, 233, 1) 0%, rgba(219, 219, 219, 1) 100%);
+}
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
